@@ -63,7 +63,7 @@ interface RouteConfig {
   title?: string;
 
   /**
-  * Arbitrary data to attach to the route. This can be used to attached custom data needed by components
+  * Arbitrary data to attach to the route. This can be used to attach custom data needed by components
   * like pipeline steps and activated modules.
   */
   settings?: any;
